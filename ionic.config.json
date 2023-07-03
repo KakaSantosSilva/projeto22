@@ -1,0 +1,7 @@
+{
+  "name": "ionicTaylor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
